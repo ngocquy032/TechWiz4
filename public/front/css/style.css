@@ -3386,6 +3386,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   opacity: 1;
   visibility: visible;
   bottom: 0;
+  width: 100%;
 }
 .single_product:hover .action_links ul li a {
   -webkit-transform: translateX(0);
@@ -3421,6 +3422,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 }
 
 .action_links {
+    width: 100%;
   transition: all 0.3s ease;
   position: absolute;
   left: 0;
@@ -3440,6 +3442,13 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   font-size: 18px;
   display: inline-block;
 }
+.action_links  li {
+    line-height: 60px;
+    width: auto;
+    text-align: center;
+    font-size: 18px;
+    display: inline-block;
+  }
 .action_links ul li a:hover {
   color: #79a206;
 }
@@ -6091,6 +6100,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   display: flex;
   align-items: center;
   margin-bottom: 20px;
+  margin-top: 15%;
 }
 @media only screen and (max-width: 767px) {
   .product_variant.quantity {

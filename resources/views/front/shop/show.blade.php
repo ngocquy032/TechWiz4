@@ -8,11 +8,7 @@
             <div class="row">
                 <div class="col-12">
                     <div class="breadcrumb_content">
-                        {{-- <h2>Product Details</h2> --}}
-                        {{-- <ul>
-                            <li><a href="index.html">Home</a></li>
-                            <li>Product Details</li>
-                        </ul> --}}
+
                     </div>
                 </div>
             </div>
@@ -111,16 +107,7 @@
                                     neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempor, lorem et
                                     placerat vestibulum, metus nisi posuere nisl, in </p>
                             </div>
-                            <div class="product_variant color">
-                                <h3>Available Options</h3>
-                                <label>color</label>
-                                <ul>
-                                    <li class="color1"><a href="#"></a></li>
-                                    <li class="color2"><a href="#"></a></li>
-                                    <li class="color3"><a href="#"></a></li>
-                                    <li class="color4"><a href="#"></a></li>
-                                </ul>
-                            </div>
+
                             <div class="product_variant quantity">
                                 <label>quantity</label>
                                 <input min="1" max="100" value="1" type="number">
