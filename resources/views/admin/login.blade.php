@@ -59,7 +59,7 @@
                                 </div>
                                 <div class="modal-footer clearfix">
                                     <div class="float-right">
-                                        <button class="btn btn-primary btn-lg">Login to Dashboard</button>
+                                        <button class="btn btn-success btn-lg">Login to Dashboard</button>
                                     </div>
                                 </div>
                             </div>

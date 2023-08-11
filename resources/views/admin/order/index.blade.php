@@ -32,7 +32,7 @@
                                 <input type="search" name="search" id="search" placeholder="Search everything"
                                     class="form-control">
                                 <span class="input-group-append">
-                                    <button type="submit" class="btn btn-primary">
+                                    <button type="submit" class="btn btn-success">
                                         <i class="fa fa-search"></i>&nbsp;
                                         Search
                                     </button>

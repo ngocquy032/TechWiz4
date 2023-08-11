@@ -3433,21 +3433,23 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   background: #ffffff;
 }
 .action_links ul {
+
   display: flex;
 }
 .action_links ul li a {
   line-height: 60px;
   width: 50px;
-  text-align: center;
+  /* text-align: center; */
   font-size: 18px;
-  display: inline-block;
+  display: inline;
 }
 .action_links  li {
+    padding: 0 7%;
     line-height: 60px;
-    width: auto;
-    text-align: center;
+    width: 100%;
+    /* text-align: center; */
     font-size: 18px;
-    display: inline-block;
+    display: inline;
   }
 .action_links ul li a:hover {
   color: #79a206;
@@ -3583,6 +3585,21 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   left: auto;
 }
 
+/* Giáp chỉnh sửa */
+.product_items {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.items-products-vd {
+    width: 23%;
+    margin: 1rem 0;
+}
+
+
+/* Giáp kết thúc chỉnh sửa */
 .product_items .single_product {
   margin-bottom: 30px;
 }

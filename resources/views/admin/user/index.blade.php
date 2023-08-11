@@ -18,7 +18,7 @@
             </div>
 
             <div class="page-title-actions">
-                <a href="./admin/user/create" class="btn-shadow btn-hover-shine mr-3 btn btn-primary">
+                <a href="./admin/user/create" class="btn-shadow btn-hover-shine mr-3 btn btn-success">
                     <span class="btn-icon-wrapper pr-2 opacity-7">
                         <i class="fa fa-plus fa-w-20"></i>
                     </span>
@@ -39,7 +39,7 @@
                             <input type="search" name="search" id="search" placeholder="Search everything"
                                 class="form-control">
                             <span class="input-group-append">
-                                <button type="submit" class="btn btn-primary">
+                                <button type="submit" class="btn btn-success">
                                     <i class="fa fa-search"></i>&nbsp;
                                     Search
                                 </button>

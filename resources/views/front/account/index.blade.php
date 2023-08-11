@@ -179,38 +179,5 @@
     </section>
     <!-- my account end   -->
 
-    <!--brand area start-->
-    <div class="brand_area brand__three">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="brand_container owl-carousel">
-                        <div class="single_brand">
-                            <a href="#"><img src="front/img/brand/brand1.png" alt=""></a>
-                        </div>
-                        <div class="single_brand">
-                            <a href="#"><img src="front/img/brand/brand2.png" alt=""></a>
-                        </div>
-                        <div class="single_brand">
-                            <a href="#"><img src="front/img/brand/brand3.png" alt=""></a>
-                        </div>
-                        <div class="single_brand">
-                            <a href="#"><img src="front/img/brand/brand4.png" alt=""></a>
-                        </div>
-                        <div class="single_brand">
-                            <a href="#"><img src="front/img/brand/brand5.png" alt=""></a>
-                        </div>
-                        <div class="single_brand">
-                            <a href="#"><img src="front/img/brand/brand6.png" alt=""></a>
-                        </div>
-                        <div class="single_brand">
-                            <a href="#"><img src="front/img/brand/brand2.png" alt=""></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!--brand area end-->
 
 @endsection
